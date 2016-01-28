@@ -1,8 +1,9 @@
 package objx
 
 import (
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/dvln/testify/assert"
 )
 
 func TestStringTypeString(t *testing.T) {
